@@ -10,6 +10,7 @@ using namespace std;
 class ExtendedWorkTicket: public WorkTicket
 {
 private:
+	
 	bool isOpen;
 
 public:
